@@ -22,6 +22,9 @@ UX/UI design: user-centered design, wireframing, and prototyping
 - Evaluating and testing AI systems: designing test cases, checking outputs against source material, and finding where models fail.
 - Projects where design and engineering have to work together, so that what gets built is both useful and technically achievable.
 
+## Selected Work
+- **[Digital Magazine](https://github.com/teganmartin12/teganmartin12.github.io/tree/main/grc339/digital-magazine):** A multi-page digital magazine built from scratch with HTML and CSS. [View the live site](https://teganmartin12.github.io/grc339/digital-magazine/)
+
 ## Computer Science Coursework
 Undergrad:
 - CSC 101: Fundamentals of Computer Science
