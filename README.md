@@ -2,6 +2,9 @@
 
 I'm a student at Boston University completing my online masters in Computer Science and Artificial Intelligence. I completed my undergrad at California Polytechnic State University where I earned a Bachelors of Science in Graphic Communication, concentrating in UX/UI, and a minor in Computer Science. 
 
+## Resume 
+- Resume: [View my resume (PDF)](Tegan_Martin_Resume.pdf)
+
 ## What I'm working on
 Graduate coursework in computer science and AI at Boston University
 Part-time work evaluating large language model responses for accuracy and relevance
